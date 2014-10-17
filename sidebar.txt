@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ska:home|Door43 (ska)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ska|d43-ska repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ska/archive/master.zip|d43-ska.zip]]
+
+**Recent Changes**
+{{changes>ns = ska}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ska|Ethnologue data]]
+
